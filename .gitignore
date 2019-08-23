@@ -1,7 +1,7 @@
 # Project Data folders
-data/*
+trump_classifier/data/*
 models/*
-output/*
+trump_classifier/output/*
 checkpoint/*
 .idea/*
 secrets.py
